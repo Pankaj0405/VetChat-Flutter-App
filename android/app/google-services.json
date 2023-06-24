@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652322531717",
+    "project_id": "vetcure-chat",
+    "storage_bucket": "vetcure-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652322531717:android:43e0ea25e4a70532febcec",
+        "android_client_info": {
+          "package_name": "com.example.vetcurekartchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652322531717-19f6ffdpk02f0eavsed3u8g8ign8gf59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPV_r5QWacWdNNIOApcY--A-mDPg99bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652322531717-19f6ffdpk02f0eavsed3u8g8ign8gf59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
